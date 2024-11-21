@@ -57,5 +57,5 @@ Model Metrics:
 After training and testing the Linear Regression model, the following results were observed:
 
 - Mean Absolute Error (MAE): 14,800
-- Mean Squared Error (MSE): 2,500,000
+- Mean Squared Error (MSE): 2,500,000.
 - R² Score: 0.85 (The model explains 85% of the variance in house prices).
